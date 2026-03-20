@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ライフイズビューティフル - Life Is Beautiful",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-20T19:43:22.201552Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ライフイズビューティフル",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_ライフイズビューティフル_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ライフイズビューティフル-Prologue-",
+      "artist": "Touyu",
+      "has_synced": false,
+      "path": "select/02_ライフイズビューティフル-Prologue-_Touyu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライフイズビューティフル",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_ライフイズビューティフル_amazarashi.txt"
+    }
+  ]
+}
